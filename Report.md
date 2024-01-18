@@ -18,10 +18,10 @@ When the main game will be started from a newly designed two-storied building. T
 
 
 ### Design
- 
-Figure: Primary Sketch
- 
-Figure: UML Class Diagram
+![Primary Plan](https://raw.githubusercontent.com/mamunsussex/MR_p3d/main/Quest%20Game%20Primary%20Sketch.png "Primary Plan")
+
+![UML Class Diagram](https://raw.githubusercontent.com/mamunsussex/MR_p3d/main/UML%20design%20QuestGame.png "UML Class Diagram")
+
  
 
 
